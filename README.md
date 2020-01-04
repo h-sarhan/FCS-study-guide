@@ -7,7 +7,7 @@
 1. Rosen, K.H. *Discrete Mathematics and its Applications, Global Edition* [Direct Link](https://www.dawsonera.com/abstract/9780077151515)
 2. Sipser, M. *Introduction to the theory of computation* PDF excerpts are provided on Coursera, however I suggest getting the book, because we only have access to chapter 1. The international edition can be found for cheap. [Link](https://biblio.co.uk/book/introduction-theory-computation-3-e-michael/d/813674725) 
 3. Hopcroft, J., R. Motwani and J.D. Ullman *Introduction to automata theory, languages and computation* PDF Excerpts are provided on Coursera.
-4. Forbes, M. *A theoretical introduction to Turing Machine* [Direct Link](https://www.dawsonera.com/abstract/9788132316909) (This book is trash)
+4. Forbes, M. *A theoretical introduction to Turing Machine* [Direct Link](https://www.dawsonera.com/abstract/9788132316909)
 5. Kozen, D.C. *Automata and Computability*. PDF excerpts are provided on Coursera
 6. Chang, S. (ed) *Data structures and algorithms* [Direct Link](https://ebookcentral.proquest.com/lib/londonww/detail.action?docID=1223927)
 
