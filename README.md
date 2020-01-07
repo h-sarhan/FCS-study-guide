@@ -77,12 +77,12 @@
 1. The exercises in chapters 1.8, 1.9, and 5.1of the Rosen book give you the opportunity to practice proof-writing. Check your answers [here](https://www.slader.com/textbook/9780071315012-discrete-mathematics-and-its-applications-global-edition-7th-edition/)
 2. [A Guide to Proof-Writing](https://www.cs.ucy.ac.cy/~dzeina/courses/epl111/proofwriting.pdf)
 3. [Techniques for Proof-Writing](http://math.umaine.edu/~weiss/TechniquesForProof.pdf)
-4. The Stanford CS103 [website](http://web.stanford.edu/class/cs103/) has many resources related to writing proofs
+4. The Stanford CS103 [website](http://web.stanford.edu/class/archive/cs/cs103/cs103.1184/) has many resources related to writing proofs
 
 ##### Automata Theory
 
 1. Practice designing automata, regular expressions, grammars, and Turing machines by solving homework problems in the Automata Theory MOOC (#5 below) or the Sipser book. Check your answers [here](https://www.slader.com/textbook/9781285401065-introduction-to-the-theory-of-computation-3rd-edition/)
-2. The Stanford CS103 [website](http://web.stanford.edu/class/cs103/) also has very well made and detailed slides covering Finite State Automata, Regular Expressions, Context-Free Grammars, and Turing Machines
+2. The Stanford CS103 [website](http://web.stanford.edu/class/archive/cs/cs103/cs103.1184/) also has very well made and detailed slides covering Finite State Automata, Regular Expressions, Context-Free Grammars, and Turing Machines
 3. [Theory of Computation lectures by UC Davis](https://www.youtube.com/playlist?list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt). Follows the Sipser book. 
 4. [NESO Academy Theory of Computation playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev) 
 5. [Stanford Automata Theory MOOC](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about). Follows the Hopcroft book. Includes homework as well.
