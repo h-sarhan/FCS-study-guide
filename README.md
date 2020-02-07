@@ -84,7 +84,7 @@
 1. Practice designing automata, regular expressions, grammars, and Turing machines by solving homework problems in the Automata Theory MOOC (#5 below) or the Sipser book. Check your answers [here](https://www.slader.com/textbook/9781285401065-introduction-to-the-theory-of-computation-3rd-edition/)
 2. The Stanford CS103 [website](http://web.stanford.edu/class/archive/cs/cs103/cs103.1184/) also has very well made and detailed slides covering Finite State Automata, Regular Expressions, Context-Free Grammars, and Turing Machines
 3. [Theory of Computation lectures by UC Davis](https://www.youtube.com/playlist?list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt). Follows the Sipser book. 
-4. [NESO Academy Theory of Computation playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev) 
+4. [Harry Potter Theory of Computation Playlist](https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz) 
 5. [Stanford Automata Theory MOOC](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about). Follows the Hopcroft book. Includes homework as well.
 
 ##### Algorithms
